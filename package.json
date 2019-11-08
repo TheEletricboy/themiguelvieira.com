@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheEletricboy/themiguelvieira.com.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/TheEletricboy/themiguelvieira.com.git",
+  "author": "Miguel Vieira <54644862+TheEletricboy@users.noreply.github.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheEletricboy/themiguelvieira.com/issues"
